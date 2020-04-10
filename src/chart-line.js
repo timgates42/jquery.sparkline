@@ -185,7 +185,7 @@
             yvalues = this.yvalues;
 
             if (!this.yminmax.length || this.yvalues.length < 2) {
-                // empty or all null valuess
+                // empty or all null values
                 return;
             }
 
